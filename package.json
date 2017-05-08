@@ -1,0 +1,21 @@
+{
+  "name": "hdprocess",
+  "version": "1.0.0",
+  "description": "以进度条的方式显示文档内容浏览进度的一款js插件。",
+  "main": "hDProcess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "process",
+    "document",
+    "process"
+  ],
+  "author": "HL",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.1.2"
+  }
+}
